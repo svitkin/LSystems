@@ -1,0 +1,51 @@
+preset_name,key,value
+Dragon Curve,axiom,FX
+Dragon Curve,rule1,X
+Dragon Curve,rep1,X+YF+
+Dragon Curve,rule2,Y
+Dragon Curve,rep2,-FX-Y
+Dragon Curve,angle,90
+Koch Curve 1,axiom,F
+Koch Curve 1,rule1,F
+Koch Curve 1,rep1,F+F-F-F+F
+Koch Curve 1,angle,90
+Sierpinski Triangle,axiom,F-G-G
+Sierpinski Triangle,rule1,F
+Sierpinski Triangle,rep1,F-G+F+G-F
+Sierpinski Triangle,rule2,G
+Sierpinski Triangle,rep2,GG
+Sierpinski Triangle,angle,120
+Cantor Set,axiom,F
+Cantor Set,rule1,F
+Cantor Set,rep1,FfF
+Cantor Set,rule2,f 
+Cantor Set,rep2,fff
+Cantor Set,angle,120
+Koch Island,axiom,F-F-F-F
+Koch Island,rule1,F
+Koch Island,rep1,F-F+f+FF-F-F+F
+Koch Island,angle,90
+Koch Curve 2,axiom,F-F-F-F
+Koch Curve 2,rule1,F
+Koch Curve 2,rep1,FF-F-F-F-F-F+F
+Koch Curve 2,angle,90
+Koch Curve 3,axiom,F-F-F-F
+Koch Curve 3,rule1,F
+Koch Curve 3,rep1,FF-F-F-F-FF
+Koch Curve 3,angle,90
+Koch Curve 4,axiom,F-F-F-F
+Koch Curve 4,rule1,F
+Koch Curve 4,rep1,FF-F+F-F-FF
+Koch Curve 4,angle,90
+Koch Curve 5,axiom,F-F-F-F
+Koch Curve 5,rule1,F
+Koch Curve 5,rep1,FF-F—F-F
+Koch Curve 5,angle,90
+Koch Curve 6,axiom,F-F-F-F
+Koch Curve 6,rule1,F
+Koch Curve 6,rep1,F-FF—F-F
+Koch Curve 6,angle,90
+Koch Curve 7,axiom,F-F-F-F
+Koch Curve 7,rule1,F
+Koch Curve 7,rep1,F-F+F-F-F
+Koch Curve 7,angle,90

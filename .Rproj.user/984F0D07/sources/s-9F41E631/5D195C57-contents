@@ -1,0 +1,17 @@
+# Select code graveyard...
+
+#selectizeInput("axiom", 
+#            "Starting axiom", 
+#            c("F", "G", "+", "-", "X", "Y"),
+#            multiple = TRUE,
+#            options = list("hideSelected" = FALSE)),
+#div(style="display:inline-block",
+#    selectizeInput("to_rep1", 
+#                   "Rule 1", 
+#                   c("F", "G", "+", "-", "X", "Y"),
+#                   multiple = TRUE)),
+#div(style="display:inline-block",
+#    selectizeInput("rep1", 
+#                   "", 
+#                   c("F", "G", "+", "-", "X", "Y"),
+#                   multiple = TRUE)),

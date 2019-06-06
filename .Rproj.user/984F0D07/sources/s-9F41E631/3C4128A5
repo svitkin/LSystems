@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558304643776.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "73|18|101|8|\n217|13|219|4|\n221|47|234|4|\n",
+    "hash" : "994669320",
+    "id" : "3C4128A5",
+    "lastKnownWriteTime" : 1559800188,
+    "last_content_update" : 1559800188341,
+    "path" : "~/Documents/Repos/LSystem-app/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "248,72",
+        "scrollLine" : "199"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,19 @@
+validate_string <- function(string, field_name) {
+  extra_symbols <-
+    stringr::str_split(string, "") %>% 
+    setdiff(alphabet)
+  
+  if (length(extra_symbols) == 0) {
+    return(NULL)
+  } else {
+    return(paste0("You have the following non-valid symbols in your ", 
+                  field_name, ": ", paste(extra_symbols, collapse = ", ")))
+  }
+}
+
+
+validate(validate_string(input[[paste0("to_rep", rule_num)]], paste0("Rule ", rule_num)),
+         validate_string(input[[paste0("rep", rule_num)]], paste0("Rule ", rule_num)))
+
+
+validate(validate_string(axiom_reactive(), "starting axiom"))
